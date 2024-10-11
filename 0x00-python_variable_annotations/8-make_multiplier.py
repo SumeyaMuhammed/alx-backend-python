@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 8's module.
+'''This module provides a type-annotated function that takes a float as argument and returns a function that multiplies a float by it.
 '''
 from typing import Callable
 
